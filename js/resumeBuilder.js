@@ -16,7 +16,7 @@ var bio = {
   },
   "welcomeMessage": "Keen on programming, science and innovative technologies!",
   "skills": [
-    "Computational scientist", "Software developer", "IT engineer", "Data analysis", "Husband, father and Coffee powered"
+	     "Computational scientist", "Software developer", "IT engineer", "Data analyst", "Husband, Father<sup>3</sup>","Nutella&reg; addict"
   ],
   "bioPic": "images/picture_UiO.jpg"
 }
